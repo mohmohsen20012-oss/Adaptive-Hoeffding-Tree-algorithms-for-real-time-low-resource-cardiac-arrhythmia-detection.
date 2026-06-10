@@ -1,0 +1,2 @@
+# Adaptive-Hoeffding-Tree-algorithms-for-real-time-low-resource-cardiac-arrhythmia-detection.
+This project evaluates the time-space complexity and performance of four adaptive learning algorithms based on Hoeffding Trees for real-time cardiac arrhythmia detection. It aims to bridge the gap between complex AI models and the need for zero-latency Early Warning Systems in ICUs, ensuring efficient, resource-optimized monitoring.
